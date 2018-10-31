@@ -4,11 +4,11 @@ Octoboer 29, 2018
 
 ### Project Title
 Replace the Project Title
-GitHub Project
+GitHub Project Commands
 
 ### Description
 Describe what your project is about and what it does
-This is for the Github Project: Git Commands Documentation Template
+
 
 ### Files used
 Include the files used
