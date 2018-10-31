@@ -4,11 +4,11 @@ Include the date you created this project and README file.
 
 ### Project Title
 Replace the Project Title
-GitHub Project - GITHUB commands
+GitHub Project: GITHUB commands
 
 ### Description
 Describe what your project is about and what it does
-
+3rd homework assignment
 
 ### Files used
 Include the files used
