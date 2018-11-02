@@ -1,4 +1,5 @@
 # Editing for Branch refactoring
+# Date edited: November 2, 2018
 import time
 import pandas as pd
 import numpy as np
